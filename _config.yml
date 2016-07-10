@@ -1,14 +1,14 @@
-layout_spectrum: 0.7580533460713923
-typography_spectrum: 0.7531940049957484
+layout_spectrum: 0.228712840937078
+typography_spectrum: 0.5880455230362713
 color:
-  brandStrength: 0.20779376989230514
-  lightness: 0.4613444472197443
-  saturation: 0.9133061042521149
-  rhythmicContrast: 0.9179911704268306
+  brandStrength: 0.48204869707114995
+  lightness: 0.3502877210266888
+  saturation: 0.6947528149466962
+  rhythmicContrast: 0.4014449343085289
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Floorball+HKY
