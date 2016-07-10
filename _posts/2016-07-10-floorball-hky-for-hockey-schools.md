@@ -4,14 +4,14 @@ description: >-
   that transfer directly to on-ice puck performance. Our trained instructors
   have a passion for athlete development and decades of Hockey school
   experience.
-dateModified: '2016-07-10T00:14:02.710Z'
-datePublished: '2016-07-10T00:15:12.876Z'
+dateModified: '2016-07-10T00:25:36.051Z'
+datePublished: '2016-07-10T00:25:36.563Z'
 title: Floorball+ HKY for Hockey Schools
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b36db9e-215c-46cf-93be-41e0aca81768.jpg
-starred: false
 sourcePath: _posts/2016-07-10-floorball-hky-for-hockey-schools.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
